@@ -1,0 +1,16 @@
+{
+   "author": "Peter Quiring",
+   "content_scripts": [ {
+      "css": [ "n.css" ],
+      "js": [ "n.js" ],
+      "matches": [ "https://*/_/chrome/newtab*", "*://local-ntp/local-ntp.html" ],
+      "run_at": "document_end"
+   } ],
+   "name": "New Tab Page Injector",
+   "short_name": "New Tab Page Injector",
+   "description": "Overrides new tab page but keeps bookmark bar.",
+   "manifest_version": 2,
+   "minimum_chrome_version": "29",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

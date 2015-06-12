@@ -1,0 +1,11 @@
+img {
+  border: 0px;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+}
+
+td {
+  text-align: center;
+  vertical-align: top;
+}

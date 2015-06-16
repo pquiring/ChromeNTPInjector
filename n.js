@@ -8,6 +8,9 @@ document.body.innerHTML =
 "<td><a href='http://gmail.com'><img src='http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Communication-gmail-icon.png'>" +
 "<br>Google Mail</a></td>" +
 
+"<td><a href='http://contacts.google.com'><img src='https://ssl.gstatic.com/s2/oz/images/contacts/favicon-contacts2.ico'>" +
+"<br>Google Contacts</a></td>" +
+
 "<td><a href='http://plus.google.com'><img src='http://plus.google.com/favicon.ico'>" +
 "<br>Google Plus</a></td>" +
 
@@ -28,10 +31,10 @@ document.body.innerHTML =
 "<td><a href='http://play.google.com'><img src='https://ssl.gstatic.com/android/market_images/web/favicon.ico'>" +
 "<br>Google Play</a></td>" +
 
-"</tr><tr>" +
-
 "<td><a href='http://translate.google.com'><img src='http://translate.google.com/favicon.ico'>" +
 "<br>Google Translate</a></td>" +
+
+"</tr><tr>" +
 
 "<td><a href='http://youtube.com'><img src='http://youtube.com/favicon.ico'>" +
 "<br>YouTube</a></td>" +

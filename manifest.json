@@ -2,15 +2,17 @@
    "author": "Peter Quiring",
    "content_scripts": [ {
       "css": [ "n.css" ],
-      "js": [ "n.js" ],
+      "js": [ "n.js", "default.js" ],
       "matches": [ "https://*/_/chrome/newtab*", "*://local-ntp/local-ntp.html" ],
       "run_at": "document_end"
    } ],
-   "name": "New Tab Page Injector",
+   "name": "New Tab Page Injector with Bookmarks Bar",
    "short_name": "New Tab Page Injector",
-   "description": "Overrides new tab page but keeps bookmark bar.",
+   "description": "Replaces your new tab page content with custom HTML content.",
    "manifest_version": 2,
    "minimum_chrome_version": "29",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.0"
+   "permissions": ["storage"],
+   "options_page": "options.html",
+   "version": "1.1.1"
 }

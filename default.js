@@ -41,8 +41,14 @@ function defaultHTML() {
   "<td><a href='http://www.facebook.com'><img src='https://www.facebook.com/favicon.ico'>" +
   "<br>Facebook</a></td>" +
 
+  "<td><a href='http://play.spotify.com'><img src='https://play.spotify.com/favicon.ico'>" +
+  "<br>Spotify</a></td>" +
+
   "<td><a href='http://www.pandora.com'><img src='https://www.pandora.com/favicon.ico'>" +
   "<br>Pandora</a></td>" +
+
+  "<td><a href='http://www.wikipedia.org'><img src='https://www.wikipedia.org/static/favicon/wikipedia.ico'>" +
+  "<br>WikiPedia</a></td>" +
 
   "</tr></table>"
   ;

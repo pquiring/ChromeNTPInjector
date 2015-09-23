@@ -6,6 +6,10 @@
       "matches": [ "https://*/_/chrome/newtab*", "*://local-ntp/local-ntp.html" ],
       "run_at": "document_end"
    } ],
+   "icons": {
+     "24": "injector24.png",
+     "128": "injector128.png"
+   },
    "name": "New Tab Page Injector with Bookmarks Bar",
    "short_name": "New Tab Page Injector",
    "description": "Replaces your new tab page content with custom HTML content.",
@@ -14,5 +18,5 @@
    "update_url": "https://clients2.google.com/service/update2/crx",
    "permissions": ["storage"],
    "options_page": "options.html",
-   "version": "1.2"
+   "version": "1.4.2"
 }

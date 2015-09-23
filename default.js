@@ -4,11 +4,16 @@ function defaultHTML() {
   "<td><a href='http://google.ca'><img src='https://google.ca/favicon.ico'>" +
   "<br>Google Search</a></td>" +
 
+  "<td><a href='http://inbox.google.com'><img src='https://ssl.gstatic.com/bt/C3341AA7A1A076756462EE2E5CD71C11/ic_product_inbox_16dp_r2_2x.png'>" +
+  "<br>Google InBox</a></td>" +
+
   "<td><a href='http://mail.google.com'><img src='https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico'>" +
   "<br>Google Mail</a></td>" +
 
   "<td><a href='http://contacts.google.com'><img src='https://ssl.gstatic.com/s2/oz/images/contacts/favicon-contacts2.ico'>" +
   "<br>Google Contacts</a></td>" +
+
+  "</tr><tr>" +
 
   "<td><a href='http://plus.google.com'><img src='https://plus.google.com/favicon.ico'>" +
   "<br>Google Plus</a></td>" +
@@ -16,13 +21,13 @@ function defaultHTML() {
   "<td><a href='http://news.google.com'><img src='https://ssl.gstatic.com/news-static/img/favicon.ico'>" +
   "<br>Google News</a></td>" +
 
-  "</tr><tr>" +
-
   "<td><a href='http://drive.google.com'><img src='https://drive.google.com/favicon.ico'>" +
   "<br>Google Drive</a></td>" +
 
   "<td><a href='http://calendar.google.com'><img src='https://calendar.google.com/googlecalendar/images/favicon_v2013_20.ico'>" +
   "<br>Google Calendar</a></td>" +
+
+  "</tr><tr>" +
 
   "<td><a href='http://maps.google.com'><img src='https://maps.gstatic.com/favicon3.ico'>" +
   "<br>Google Maps</a></td>" +
@@ -33,10 +38,10 @@ function defaultHTML() {
   "<td><a href='http://translate.google.com'><img src='https://translate.google.com/favicon.ico'>" +
   "<br>Google Translate</a></td>" +
 
-  "</tr><tr>" +
-
   "<td><a href='http://youtube.com'><img src='https://youtube.com/favicon.ico'>" +
   "<br>YouTube</a></td>" +
+
+  "</tr><tr>" +
 
   "<td><a href='http://www.facebook.com'><img src='https://www.facebook.com/favicon.ico'>" +
   "<br>Facebook</a></td>" +
